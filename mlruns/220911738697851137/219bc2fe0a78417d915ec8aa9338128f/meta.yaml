@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/219bc2fe0a78417d915ec8aa9338128f/artifacts
+end_time: 1733763429794
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: 219bc2fe0a78417d915ec8aa9338128f
+run_name: beautiful-yak-496
+run_uuid: 219bc2fe0a78417d915ec8aa9338128f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733763429310
+status: 4
+tags: []
+user_id: Administrator

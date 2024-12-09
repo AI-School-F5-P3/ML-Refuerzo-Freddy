@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/2cd6be587d7b4216ab5ff754cecd03b7/artifacts
+end_time: 1733763875026
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: 2cd6be587d7b4216ab5ff754cecd03b7
+run_name: victorious-gnu-585
+run_uuid: 2cd6be587d7b4216ab5ff754cecd03b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733763874662
+status: 3
+tags: []
+user_id: Administrator

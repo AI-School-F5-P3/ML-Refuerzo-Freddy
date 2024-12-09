@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/c0ec433d7f514df4858abb642d60e34a/artifacts
+deleted_time: 1733764993499
+end_time: 1733763876537
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: deleted
+run_id: c0ec433d7f514df4858abb642d60e34a
+run_name: luxuriant-koi-648
+run_uuid: c0ec433d7f514df4858abb642d60e34a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733763876218
+status: 3
+tags: []
+user_id: Administrator

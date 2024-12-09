@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/66c459a614194123b59d35ead2f8df01/artifacts
+end_time: 1733764384942
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: 66c459a614194123b59d35ead2f8df01
+run_name: rumbling-ram-964
+run_uuid: 66c459a614194123b59d35ead2f8df01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733764384483
+status: 3
+tags: []
+user_id: Administrator

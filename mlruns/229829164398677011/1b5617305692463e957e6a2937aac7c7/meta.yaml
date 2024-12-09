@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/229829164398677011/1b5617305692463e957e6a2937aac7c7/artifacts
+deleted_time: 1733759273838
+end_time: 1733749109671
+entry_point_name: ''
+experiment_id: '229829164398677011'
+lifecycle_stage: deleted
+run_id: 1b5617305692463e957e6a2937aac7c7
+run_name: hyperparameter_optimization
+run_uuid: 1b5617305692463e957e6a2937aac7c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733748891280
+status: 3
+tags: []
+user_id: Administrator

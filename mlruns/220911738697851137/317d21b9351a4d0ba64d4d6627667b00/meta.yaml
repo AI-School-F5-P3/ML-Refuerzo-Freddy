@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/317d21b9351a4d0ba64d4d6627667b00/artifacts
+end_time: 1733763873534
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: 317d21b9351a4d0ba64d4d6627667b00
+run_name: unique-sloth-524
+run_uuid: 317d21b9351a4d0ba64d4d6627667b00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733763872849
+status: 3
+tags: []
+user_id: Administrator

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/3c6d7218d18b4b248911d7d9b8ca8ee2/artifacts
+end_time: 1733763430208
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: 3c6d7218d18b4b248911d7d9b8ca8ee2
+run_name: serious-squid-351
+run_uuid: 3c6d7218d18b4b248911d7d9b8ca8ee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733763429856
+status: 4
+tags: []
+user_id: Administrator
