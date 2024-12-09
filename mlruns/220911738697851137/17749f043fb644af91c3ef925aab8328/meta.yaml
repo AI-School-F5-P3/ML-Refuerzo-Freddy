@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/17749f043fb644af91c3ef925aab8328/artifacts
+end_time: 1733763875028
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: 17749f043fb644af91c3ef925aab8328
+run_name: Final Model 01_monitoring
+run_uuid: 17749f043fb644af91c3ef925aab8328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733763874619
+status: 3
+tags: []
+user_id: Administrator

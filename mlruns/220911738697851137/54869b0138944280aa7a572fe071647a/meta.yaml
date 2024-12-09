@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/54869b0138944280aa7a572fe071647a/artifacts
+end_time: 1733763432393
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: 54869b0138944280aa7a572fe071647a
+run_name: Final Model 01_drift_check
+run_uuid: 54869b0138944280aa7a572fe071647a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733763432026
+status: 3
+tags: []
+user_id: Administrator

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/eca2d672e4cc4b41a73bfa908e6c1996/artifacts
+end_time: 1733763431630
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: eca2d672e4cc4b41a73bfa908e6c1996
+run_name: gentle-loon-510
+run_uuid: eca2d672e4cc4b41a73bfa908e6c1996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733763431172
+status: 4
+tags: []
+user_id: Administrator

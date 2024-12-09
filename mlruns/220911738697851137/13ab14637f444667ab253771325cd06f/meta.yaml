@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/13ab14637f444667ab253771325cd06f/artifacts
+end_time: 1733763876926
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: 13ab14637f444667ab253771325cd06f
+run_name: dazzling-bug-312
+run_uuid: 13ab14637f444667ab253771325cd06f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733763876589
+status: 3
+tags: []
+user_id: Administrator

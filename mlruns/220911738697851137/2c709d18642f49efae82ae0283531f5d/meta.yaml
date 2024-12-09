@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/2c709d18642f49efae82ae0283531f5d/artifacts
+deleted_time: 1733764069955
+end_time: 1733747622947
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: deleted
+run_id: 2c709d18642f49efae82ae0283531f5d
+run_name: monitoring_20241209
+run_uuid: 2c709d18642f49efae82ae0283531f5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733747622872
+status: 3
+tags: []
+user_id: Administrator

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4d8a61fe22f8443c80a8d466446e4942/artifacts
+end_time: 1733754395495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d8a61fe22f8443c80a8d466446e4942
+run_name: Retrain GradientBoosting
+run_uuid: 4d8a61fe22f8443c80a8d466446e4942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733754380203
+status: 4
+tags: []
+user_id: Administrator

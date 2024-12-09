@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/d6f3bc7de8bf40c6b8ba8f787c768040/artifacts
+end_time: 1733764285392
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: d6f3bc7de8bf40c6b8ba8f787c768040
+run_name: charming-gnu-550
+run_uuid: d6f3bc7de8bf40c6b8ba8f787c768040
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733764285017
+status: 3
+tags: []
+user_id: Administrator

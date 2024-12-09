@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/3e26a711e39e4cfaa2b301edf6b6b141/artifacts
+end_time: 1733763429255
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: 3e26a711e39e4cfaa2b301edf6b6b141
+run_name: placid-snake-858
+run_uuid: 3e26a711e39e4cfaa2b301edf6b6b141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733763428657
+status: 4
+tags: []
+user_id: Administrator

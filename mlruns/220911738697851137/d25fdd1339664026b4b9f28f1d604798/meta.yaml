@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/d25fdd1339664026b4b9f28f1d604798/artifacts
+end_time: 1733764384433
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: d25fdd1339664026b4b9f28f1d604798
+run_name: wise-fawn-610
+run_uuid: d25fdd1339664026b4b9f28f1d604798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733764383956
+status: 3
+tags: []
+user_id: Administrator

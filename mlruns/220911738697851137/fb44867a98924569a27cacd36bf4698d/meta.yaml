@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/fb44867a98924569a27cacd36bf4698d/artifacts
+end_time: 1733764385316
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: fb44867a98924569a27cacd36bf4698d
+run_name: silent-grub-479
+run_uuid: fb44867a98924569a27cacd36bf4698d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733764384995
+status: 3
+tags: []
+user_id: Administrator

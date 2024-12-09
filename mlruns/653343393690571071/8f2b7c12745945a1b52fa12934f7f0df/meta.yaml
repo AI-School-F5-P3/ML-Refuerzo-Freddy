@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/653343393690571071/8f2b7c12745945a1b52fa12934f7f0df/artifacts
+deleted_time: 1733759227704
+end_time: 1733583705465
+entry_point_name: ''
+experiment_id: '653343393690571071'
+lifecycle_stage: deleted
+run_id: 8f2b7c12745945a1b52fa12934f7f0df
+run_name: neural_network
+run_uuid: 8f2b7c12745945a1b52fa12934f7f0df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733583705424
+status: 4
+tags: []
+user_id: Administrator

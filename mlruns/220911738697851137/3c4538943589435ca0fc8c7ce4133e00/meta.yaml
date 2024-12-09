@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/3c4538943589435ca0fc8c7ce4133e00/artifacts
+end_time: 1733764287503
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: 3c4538943589435ca0fc8c7ce4133e00
+run_name: angry-quail-155
+run_uuid: 3c4538943589435ca0fc8c7ce4133e00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733764287099
+status: 3
+tags: []
+user_id: Administrator

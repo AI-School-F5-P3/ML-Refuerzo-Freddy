@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/86915ad2a8704f32bdcef7e0a51a709d/artifacts
+end_time: 1733763874145
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: 86915ad2a8704f32bdcef7e0a51a709d
+run_name: indecisive-whale-316
+run_uuid: 86915ad2a8704f32bdcef7e0a51a709d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733763873585
+status: 3
+tags: []
+user_id: Administrator

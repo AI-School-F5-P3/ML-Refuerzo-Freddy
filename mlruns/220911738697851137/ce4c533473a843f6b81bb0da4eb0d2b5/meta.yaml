@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/ce4c533473a843f6b81bb0da4eb0d2b5/artifacts
+end_time: 1733763431114
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: ce4c533473a843f6b81bb0da4eb0d2b5
+run_name: abundant-bug-327
+run_uuid: ce4c533473a843f6b81bb0da4eb0d2b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733763430666
+status: 4
+tags: []
+user_id: Administrator

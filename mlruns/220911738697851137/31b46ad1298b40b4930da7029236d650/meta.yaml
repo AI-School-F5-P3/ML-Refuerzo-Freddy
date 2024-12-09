@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/telecom_customer/ML-Refuerzo-Freddy/mlruns/220911738697851137/31b46ad1298b40b4930da7029236d650/artifacts
+end_time: 1733763432389
+entry_point_name: ''
+experiment_id: '220911738697851137'
+lifecycle_stage: active
+run_id: 31b46ad1298b40b4930da7029236d650
+run_name: bedecked-smelt-446
+run_uuid: 31b46ad1298b40b4930da7029236d650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733763432083
+status: 4
+tags: []
+user_id: Administrator
